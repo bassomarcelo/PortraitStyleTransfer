@@ -13,9 +13,6 @@ The implementation features:
 * **Grayscale & Color Support** for diverse artistic outputs 🌈
 
 
-# Portrait Style Transfer #
-Based off of the SIGGRAPH paper "Style Transfer for Headshot Portraits"
-
 Written by Marcelo Basso, extending the work done by Jose Chavez and Daniel Li
 
 Link to [paper](https://people.csail.mit.edu/yichangshih/portrait_web/)
