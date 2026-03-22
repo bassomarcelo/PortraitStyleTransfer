@@ -1,3 +1,18 @@
+# 🎨 Portrait Style Transfer
+
+An implementation of high-quality style transfer specifically designed for headshot portraits, developed as the final assignment for the **INF01046 Image Processing** introductory class at **UFRGS**.
+
+## 📝 Description
+
+This project is based on the SIGGRAPH paper *"Style Transfer for Headshot Portraits"* by Shih et al. It goes beyond generic style transfer by utilizing techniques that preserve the local structures and details essential for human faces.
+
+The implementation features:
+* **Laplacian Stacks** for multi-scale image decomposition 🥞
+* **Binary Masking** to isolate subjects from backgrounds 🎭
+* **Local Energy Matching** to transfer textures accurately ⚡
+* **Grayscale & Color Support** for diverse artistic outputs 🌈
+
+
 # Portrait Style Transfer #
 Based off of the SIGGRAPH paper "Style Transfer for Headshot Portraits"
 
